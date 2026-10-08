@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="title desc">
+  <title id="title">Reukix · echo River</title>
+  <desc id="desc">Reukix, code, music and photography sketches beside a macOS terminal displaying root@Reukix:~# echo River.</desc>
+  <defs>
+    <clipPath id="frame"><rect x=".5" y=".5" width="799" height="399" rx="18" /></clipPath>
+    <clipPath id="terminal"><rect x="322" y="62" width="442" height="274" rx="12" /></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="800" height="400" fill="#f1eee6" />
+    <circle cx="700" cy="318" r="48" fill="#cb785b" />
+    <text x="32" y="165" fill="#20201c" font-family="Georgia, Times New Roman, serif" font-size="68" font-weight="400" letter-spacing="-3">Reukix</text>
+    <path d="M 37 187 C 104 180, 190 179, 267 187" fill="none" stroke="#bf6e50" stroke-width="2.2" stroke-linecap="round" />
+    <path d="M 280 188 C 298 201, 313 188, 312 164 M 306 172 L 312 163 L 317 173" fill="none" stroke="#8d8171" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    <g transform="translate(51 231)" fill="none" stroke="#514b43" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 8 3 L 1 12 L 8 20 M 23 3 L 30 12 L 23 20" />
+      <path d="M 19 1 L 12 23" stroke="#bf6e50" />
+    </g>
+    <g transform="translate(140 231)" fill="none" stroke="#514b43" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 10 21 V 6 L 27 2 V 17" />
+      <ellipse cx="6" cy="21" rx="4" ry="3" />
+      <ellipse cx="23" cy="17" rx="4" ry="3" stroke="#bf6e50" />
+    </g>
+    <g transform="translate(229 231)" fill="none" stroke="#514b43" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="1" y="1" width="30" height="24" rx="3" />
+      <path d="M 3 22 L 11 12 L 18 19 L 23 14 L 29 22" />
+      <circle cx="22" cy="8" r="2.3" fill="#bf6e50" stroke="none" />
+    </g>
+    <text x="66" y="280" text-anchor="middle" fill="#85796c" font-family="Menlo, Consolas, monospace" font-size="16">code</text>
+    <text x="155" y="280" text-anchor="middle" fill="#85796c" font-family="Menlo, Consolas, monospace" font-size="16">music</text>
+    <text x="244" y="280" text-anchor="middle" fill="#85796c" font-family="Menlo, Consolas, monospace" font-size="16">photos</text>
+    <rect x="327" y="71" width="442" height="274" rx="12" fill="#36332d" fill-opacity=".08" />
+    <rect x="324" y="66" width="442" height="274" rx="12" fill="#36332d" fill-opacity=".06" />
+    <g clip-path="url(#terminal)">
+      <rect x="322" y="62" width="442" height="274" fill="#252521" />
+      <rect x="322" y="62" width="442" height="40" fill="#373731" />
+      <path d="M 322 102 H 764" stroke="#1b1b18" />
+      <circle cx="342" cy="82" r="5.5" fill="#ff6259" />
+      <circle cx="360" cy="82" r="5.5" fill="#f5be4f" />
+      <circle cx="378" cy="82" r="5.5" fill="#62c554" />
+      <text x="543" y="86" text-anchor="middle" fill="#c4c1b6" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12">Reukix — zsh</text>
+      <text x="346" y="226" fill="#e9e5d9" font-family="Menlo, Consolas, Liberation Mono, monospace" font-size="21" font-weight="400" xml:space="preserve">root@Reukix:~# echo River</text>
+      <rect x="671" y="208" width="10.9" height="21" fill="#d18a6d" />
+    </g>
+    <rect x="322.5" y="62.5" width="441" height="273" rx="11.5" fill="none" stroke="#4c4a42" />
+    <rect x=".5" y=".5" width="799" height="399" rx="18" fill="none" stroke="#ded9cd" />
+  </g>
+</svg>

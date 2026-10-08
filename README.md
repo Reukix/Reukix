@@ -1,54 +1,48 @@
+<h1 align="center">Reukix</h1>
 
+<p align="center">
+  编程、听歌、摄影，还有睡觉。<br />
+  <code>root@Reukix:~# ln -s River ~/home</code>
+</p>
 
-<!--
-**yuk1uno/yuk1uno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Reukix?tab=repositories" title="查看仓库">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories-dark.svg" />
+      <img src="./assets/repositories.svg" alt="GitHub 仓库" width="28" height="28" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Reukix" title="Telegram"><img src="./assets/telegram.svg" alt="Telegram" width="28" height="28" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3>
+  一些项目
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" width="600" />
+    <img align="right" src="./assets/hero-panel.svg" alt="Reukix：root@Reukix:~# echo River" width="480" />
+  </picture>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#  🙋 Hello
+<p>
+  <a href="https://github.com/RegramDev/Regram-ios"><strong>Regram-ios ↗</strong></a><br />
+  <sub>Telegram 的第三方 iOS 客户端。<br />支持消息过滤、翻译和界面定制。</sub>
+</p>
 
-<table>
-  
-<tr><td>
+<p>
+  <a href="https://github.com/Reukix/ukix"><strong>ukix ↗</strong></a><br />
+  <sub>自用的网络规则、代理配置和服务器脚本。</sub>
+</p>
 
-###  🤯 About Me
+<p>
+  <a href="https://github.com/Reukix/img-up-bot"><strong>img-up-bot ↗</strong></a><br />
+  <sub>给 Telegram 机器人发文件，拿到图床链接。</sub>
+</p>
 
-<img align="right" width="88" src="https://img.vki.im/file/1781973644781_image_1781973640398.jpg" />
+<br clear="both" />
 
-<p>&emsp;&emsp;嗨，我是𝙔𝙪𝙠𝙞。热爱编程、听歌、摄影、睡觉、享受世界。</p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机, 开发网站 + 网络协议 +......</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<h3 align="center">GitHub 统计</h3>
 
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-</td></tr>
-
-</table>
-
-## 📊 GitHub 数据统计
-
-
-
-
-![Metrics](/github-metrics.svg)
-
-
-
-
-![Yuki's GitHub stats](https://github-readme-stats-tau-ivory-54.vercel.app/api?username=Reukix&theme=swift&show_icons=true&count_private=true&include_all_commits=true)
-
-
-
-![Icons](/metrics.plugin.topics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub 活动记录" width="480" />
+</p>
