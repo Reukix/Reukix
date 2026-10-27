@@ -25,6 +25,11 @@
 </h3>
 
 <p>
+  <a href="https://github.com/RegramDev/Regram-macos"><strong>Regram-ios ↗</strong></a><br />
+  <sub>Telegram 的第三方 macos 原生客户端。<br />支持消息过滤、翻译和界面定制。</sub>
+</p>
+
+<p>
   <a href="https://github.com/RegramDev/Regram-ios"><strong>Regram-ios ↗</strong></a><br />
   <sub>Telegram 的第三方 iOS 客户端。<br />支持消息过滤、翻译和界面定制。</sub>
 </p>
