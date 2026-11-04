@@ -37,6 +37,9 @@
 <p>
   <code>root@Reukix:~# ln -s River ~/home</code>
 </p>
+<p>
+  至于为什么右边是空的 因为我懒得放图了
+</p>
 
 <p>
   <a href="https://github.com/Reukix?tab=repositories" title="查看仓库">
